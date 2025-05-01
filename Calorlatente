@@ -1,0 +1,52 @@
+// Cuestionario: Calor latente de fusión del agua (sin LaTeX)
+
+// Preguntas teóricas
+
+::Pregunta1::
+¿Qué ocurre con la temperatura del hielo mientras se funde a 0 °C?
+{
+=Permanece constante hasta que todo el hielo se ha derretido.
+~Aumenta gradualmente a medida que se derrite.
+~Disminuye debido a la absorción de calor.
+~Depende de la masa del hielo.
+}
+
+::Pregunta2::
+¿Qué representa el calor latente de fusión del agua?
+{
+=La cantidad de energía necesaria para convertir 1 kg de hielo en agua a 0 °C sin cambiar su temperatura.
+~La energía necesaria para calentar 1 kg de agua desde 0 °C hasta 100 °C.
+~La energía perdida por el agua durante la solidificación.
+~La cantidad de energía necesaria para evaporar el agua.
+}
+
+::Pregunta3::
+¿Cuál es la fórmula correcta para calcular el calor necesario para fundir una masa m de hielo?
+{
+=Q \= m * Lf
+~Q \= m * c * DeltaT
+~Q \= Lf / m
+~Q \= c * Lf / m
+}
+
+::Pregunta4::
+¿En un sistema aislado, qué ocurre con el calor total intercambiado entre el agua caliente y el hielo?
+{
+=El calor cedido por el agua caliente es igual al calor absorbido por el hielo.
+~El hielo cede calor y se derrite.
+~Se pierde energía al entorno.
+~Ambas sustancias ganan calor.
+}
+
+// Ejercicio aplicado
+
+::Ejercicio::
+Se colocan 0.05 kg de hielo a 0 °C en 0.2 kg de agua a 40 °C dentro de un calorímetro ideal (sin pérdidas). ¿Cuál será la temperatura final del sistema después de que el hielo se derrita completamente?  
+(Datos: c del agua = 4186 J/kg·°C, Lf = 334000 J/kg)
+{
+=Tf ≈ 18.2 °C
+~Tf ≈ 25.0 °C
+~Tf ≈ 0.0 °C
+~Tf ≈ 30.0 °C
+}
+
